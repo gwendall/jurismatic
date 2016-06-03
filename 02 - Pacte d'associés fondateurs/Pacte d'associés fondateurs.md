@@ -2,39 +2,41 @@
 
 **ENTRE LES SOUSSIGNES**  **:**
 
-**1/ Monsieur / Madame** **[nom]**
+**1/ [associé1:civilite] ** **[associé1:nom]** **[associé1:prenom]**
 
-Né(e) le **[date]**à **[lieu]** (**[****département]**)
+Né(e) le **[associé1:date]**à **[associé1:lieu]** (**[associé1:département]**)
 
 De nationalité française
 
-Demeurant **[adresse]**
+Demeurant **[associé1:adresse]**
 
-Célibataire/ Pacsé/Marié sous le régime de la communauté de **[régime]**
+[associé1:statutMarital]
 
 **de première part,**
 
-**2/ Monsieur / Madame** **[nom]**
+**2/ [associé2:civilite] ** **[associé2:nom]** **[associé2:prenom]**
 
-Né(e) le **[date]**à **[lieu]** (**[****département]**)
+Né(e) le **[associé2:date]**à **[associé2:lieu]** (**[associé2:département]**)
 
 De nationalité française
 
-Demeurant **[adresse]**
+Demeurant **[associé2:adresse]**
 
-Célibataire/ Pacsé/Marié sous le régime de la communauté de **[régime]**
+[associé2:statutMarital]
 
 **de**  **deuxième**  **part,**
 
 **3/ Monsieur / Madame** **[nom]**
 
-Né(e) le **[date]**à **[lieu]** (**[****département]**)
+**2/ [associé3:civilite] ** **[associé3:nom]** **[associé3:prenom]**
+
+Né(e) le **[associé3:date]**à **[associé3:lieu]** (**[associé3:département]**)
 
 De nationalité française
 
-Demeurant **[adresse]**
+Demeurant **[associé3:adresse]**
 
-Célibataire/ Pacsé/Marié sous le régime de la communauté de **[régime]**
+[associé3:statutMarital]
 
 **de**  **troisième**  **part,**
 
@@ -42,21 +44,21 @@ Célibataire/ Pacsé/Marié sous le régime de la communauté de **[régime]**
 
 **EN PRESENCE DE :**
 
-**La société** **[nom]**, Société par Actions Simplifiée au capital de **[capital]** euros, dont le siège social est situé **[lieu]**, immatriculée au RCS de **[lieu]**sous le n° **[numéro]**, représentée par **[nom]**en sa qualité de Président, dûment habilité.
+**La société** **[société:nom]**, Société par Actions Simplifiée au capital de **[société:capital]** euros, dont le siège social est situé **[société:lieu]**, immatriculée au RCS de **[RCS:lieu]**sous le n° **[RCS:numéro]**, représentée par **[société:nomPrésident]**en sa qualité de Président, dûment habilité.
 
 **IL EST EXPOSE CE QUI SUIT** :
 
-1. La Société**[nom]**(ci-après la « Société ») est une Société par Actions Simplifiée, au capital social de **[montant]**euros, divisé en **[nombre]**actions de **[montant]**euro chacune, qui a pour principal objet _« en France et dans tous pays :_ **[à préciser]**_»._
+1. La Société**[société:nom]**(ci-après la « Société ») est une Société par Actions Simplifiée, au capital social de **[société:capitalSocialMontant]**euros, divisé en **[société:nombreActions]**actions de **[société:actionMontant]**euro chacune, qui a pour principal objet _« en France et dans tous pays :_ **[société:principalObjet]**_»._
 
 1. A ce jour, le capital social de la Société se trouve réparti comme suit :
 
-| **[Prénom Nom]** | [nombre] Actions |
+| **[investisseur1:prénom]** **[investisseur1:nom]** | [investisseur1:nombreActions] Actions |
 | --- | --- |
-| **[Prénom Nom]** | [nombre] Actions |
-| **[Prénom Nom]** | [nombre] Actions |
-| **[Prénom Nom]** | [nombre] Actions |
-| **[Prénom Nom]** | [nombre] Actions |
-| **Total d'actions composant le capital social** | **[nombre] Actions** |
+| **[investisseur2:prénom]** **[investisseur2:nom]** | [investisseur2:nombreActions] Actions |
+| **[investisseur3:prénom]** **[investisseur3:nom]** | [investisseur3:nombreActions] Actions |
+| **[investisseur4:prénom]** **[investisseur4:nom]** | [investisseur4:nombreActions] Actions |
+| **[investisseur5:prénom]** **[investisseur5:nom]** | [investisseur5:nombreActions] Actions |
+| **Total d'actions composant le capital social** | **[société:nombreActions] Actions** |
 
 Afin de préserver l'équilibre de leurs intérêts et dans le but d'organiser leurs relations au sein de la Société, les parties soussignées (les « Parties ») ont convenu de conclure le présent pacte (ci-après le « Pacte »).
 
@@ -92,7 +94,7 @@ Le contrôle d'une société au sens de l'article L.233-3 du Code de commerce.
 
 **Dirigeants :**
 
-Désigne au pluriel ensemble **[Prénom Nom]**,**[Prénom Nom]**,**[Prénom Nom]**, ou au singulier l'une ou l'autre de ces personnes.
+Désigne au pluriel ensemble **[dirigeant1:prénom]** **[dirigeant1:nom]**,**[dirigeant2:prénom]** **[dirigeant2:nom]**,**[dirigeant3:prénom]** **[dirigeant3:nom]**, ou au singulier l'une ou l'autre de ces personnes.
 
 **Force Majeure :**
 
@@ -443,11 +445,11 @@ Les Parties s'efforceront de régler à l'amiable et dans l'esprit de leurs conv
 
 Dans l'hypothèse où elles n'y parviendraient pas, tout différend sera soumis aux juridictions compétentes dans le ressort de la Cour d'appel de Paris.
 
-Fait à **[lieu]**,
+Fait à **[pacte:lieu]**,
 
-Le **[date]**
+Le **[pacte:date]**
 
-En **[nombre]**exemplaires originaux
+En **[pacte:nombreExemplaires]**exemplaires originaux
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -455,8 +457,8 @@ En **[nombre]**exemplaires originaux
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Société** **[Nom]**
+**Société** **[société:nom]**
 
-Représentée par **[Prénom Nom]**
+Représentée par **[représentant:prénom]** **[représentant:nom]**
 
 Page **18** sur **18**
