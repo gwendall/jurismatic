@@ -1,10 +1,10 @@
-**[Nom de la société]**
+**[société:nom]**
 
 Société par Actions Simplifiée
 
-au capital de **[montant]** euros
+au capital de **[société:capital]** euros
 
-Siège social : **[adresse]**
+Siège social : **[société:adresse]**
 
 En cours de constitution
 
@@ -12,37 +12,37 @@ En cours de constitution
 
 **En date du** **[date]**  **2014**
 
-**[Nom de la société]**
+**[société:nom]**
 
 Société par Actions Simplifiée
 
-Au capital de **[montant]** Euros
+Au capital de **[société:montant]** Euros
 
-Siège Social : **[adresse]**
+Siège Social : **[société:adresse]**
 
-En cours de constitution au RCS de **[numéro]**
+En cours de constitution au RCS de **[société:numéroRCS]**
 
 Pour satisfaire aux dispositions de l'article  [R 224-2 du Code de commerce](javascript:%20documentLink('CCOM4253')), il est précisé que les présents statuts ont été signés par :
 
-**1/ Monsieur / Madame** **[Nom]**
+**1/ [associé_1:civilité]e** **[associé_1:nom]**
 
-Né(e) le **[date]**à **[lieu]** (**[****département]**)
-
-De nationalité française
-
-Demeurant **[adresse]**
-
-Célibataire/ Pacsé/Marié sous le régime de la communauté de **[régime]**
-
-**2**** / Monsieur/ Madame **** [Nom]**
-
-Né(e) le **[date]**à **[lieu]** (**[****département]**)
+Né(e) le **[associé_1:dateDeNaissance]**à **[associé_1:villeDeNaissance]** (**[****associé_1:departementDeNaissance]**)
 
 De nationalité française
 
-Demeurant **[adresse]**
+Demeurant **[associé_1:adresse]**
 
-Célibataire/ Pacsé/Marié sous le régime de la communauté de **[régime]**
+[associé_1:statutMarital] sous le régime de la communauté de **[associé_1:regimeMarital]**
+
+**2/ [associé_2:civilité]e** **[associé_2:nom]**
+
+Né(e) le **[associé_2:dateDeNaissance]**à **[associé_2:villeDeNaissance]** (**[****associé_2:departementDeNaissance]**)
+
+De nationalité française
+
+Demeurant **[associé_2:adresse]**
+
+[associé_2:statutMarital] sous le régime de la communauté de **[associé_2:regimeMarital]**
 
 **TITRE I. FORME - OBJET - DENOMINATION - SIEGE SOCIAL - DUREE - EXERCICE SOCIAL**
 
