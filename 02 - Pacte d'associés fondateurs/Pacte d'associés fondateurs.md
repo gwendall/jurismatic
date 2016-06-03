@@ -4,7 +4,7 @@
 
 **1/ [associé1:civilite] ** **[associé1:nom]** **[associé1:prenom]**
 
-Né(e) le **[associé1:date]**à **[associé1:lieu]** (**[associé1:département]**)
+Né(e) le **[associé1:date] **à **[associé1:lieu]** (**[associé1:département]**)
 
 De nationalité française
 
@@ -16,7 +16,7 @@ Demeurant **[associé1:adresse]**
 
 **2/ [associé2:civilite] ** **[associé2:nom]** **[associé2:prenom]**
 
-Né(e) le **[associé2:date]**à **[associé2:lieu]** (**[associé2:département]**)
+Né(e) le **[associé2:date] **à **[associé2:lieu]** (**[associé2:département]**)
 
 De nationalité française
 
@@ -30,7 +30,7 @@ Demeurant **[associé2:adresse]**
 
 **2/ [associé3:civilite] ** **[associé3:nom]** **[associé3:prenom]**
 
-Né(e) le **[associé3:date]**à **[associé3:lieu]** (**[associé3:département]**)
+Né(e) le **[associé3:date] **à **[associé3:lieu]** (**[associé3:département]**)
 
 De nationalité française
 
