@@ -206,7 +206,7 @@ Les systèmes, logiciels, structures, infrastructures, bases de données et cont
 
 ### 15. Données à caractère personnel
 
-**[NomSociété]** pratique une politique de protection des données personnelles dont les caractéristiques sont explicitées dans le document intitulé « Charte de confidentialité », dont l'Utilisateur est expressément invité à prendre connaissance sur le site.
+**[NomSociété]** pratique une politique de protection des données personnelles dont les caractéristiques sont explicitées dans le document intitulé « [link:charte-de-confidentialite](Charte de confidentialité) », dont l'Utilisateur est expressément invité à prendre connaissance sur le site.
 
 ### 16. Publicité
 
