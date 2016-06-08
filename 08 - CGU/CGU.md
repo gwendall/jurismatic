@@ -2,9 +2,10 @@
 
 ### 1. Objet
 
-Les présentes conditions générales ont pour objet de définir les modalités et conditions d'utilisation des services proposés sur le site (ci-après : les « Services ** ** »), ainsi que de définir les droits et obligations des parties dans ce cadre.
+Les présentes conditions générales ont pour objet de définir les modalités et conditions d'utilisation des services proposés sur le site (ci-après : les « Services »), ainsi que de définir les droits et obligations des parties dans ce cadre.
 
 Elles sont notamment accessibles et imprimables à tout moment par un lien direct en bas de la page d'accueil du site.
+
 
 Elles peuvent être complétées, le cas échéant, par des conditions d'utilisation particulières à certains Services. En cas de contradiction, les conditions particulières prévalent sur ces conditions générales.
 
@@ -96,7 +97,7 @@ L'Utilisateur est informé et accepte expressément que tout retard de paiement 
 
 1. la suspension immédiate des Services en cours jusqu'au complet paiement de l'intégralité des sommes dues par l'Utilisateur ;
 
-1. la facturation au profit de **[NomSociété]** d'un intérêt de retard au taux de **[****en chiffres et en lettres]** le taux de l'intérêt légal, assis sur le montant de l'intégralité des sommes dues par l'Utilisateur.
+1. la facturation au profit de **[NomSociété]** d'un intérêt de retard au taux de **[en chiffres et en lettres]** le taux de l'intérêt légal, assis sur le montant de l'intégralité des sommes dues par l'Utilisateur.
 
 ### 8. Données
 
