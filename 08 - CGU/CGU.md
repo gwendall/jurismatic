@@ -1,9 +1,6 @@
-**CONDITIONS GENERALES D'UTILISATION**
+**CONDITIONS GENERALES D'UTILISATION DE SITE INTERNET**
 
-**DE SITE INTERNET**
-
-1.
-## Objet
+### 1. Objet
 
 Les présentes conditions générales ont pour objet de définir les modalités et conditions d'utilisation des services proposés sur le site (ci-après : les « Services ** ** »), ainsi que de définir les droits et obligations des parties dans ce cadre.
 
@@ -11,8 +8,7 @@ Elles sont notamment accessibles et imprimables à tout moment par un lien direc
 
 Elles peuvent être complétées, le cas échéant, par des conditions d'utilisation particulières à certains Services. En cas de contradiction, les conditions particulières prévalent sur ces conditions générales.
 
-1.
-## Exploitant des Services
+### 2. Exploitant des Services
 
 Les Services sont exploités par lasociété **[dénomination sociale]**, **[forme]** au capital social de **[montant du capital]** euros, immatriculée au RCS de **[ville]** sous le n° **[numéro****] **, dont le siège social est situé** [adresse]**(ci-après : « NomSociété** **»).
 
@@ -22,8 +18,7 @@ Adresse postale : **[adresse]**
 
 Adresse électronique : **[email]**
 
-1.
-## Accès au site et aux Services
+### 3. Accès au site et aux Services
 
 Les Services sont accessibles, sous réserve des restrictions prévues sur le site :
 
@@ -31,13 +26,11 @@ Les Services sont accessibles, sous réserve des restrictions prévues sur le si
 
 - à toute personne morale agissant par l'intermédiaire d'une personne physique disposant de la capacité juridique pour contracter au nom et pour le compte de la personne morale.
 
-1.
-## Acceptation des conditions générales
+### 4. Acceptation des conditions générales
 
 L'acceptation des présentes conditions générales est matérialisée par une case à cocher dans le formulaire d'inscription. Cette acceptation ne peut être que pleine et entière. Toute adhésion sous réserve est considérée comme nulle et non avenue. L'Utilisateur qui n'accepte pas d'être lié par les présentes conditions générales ne doit pas utiliser les Services.
 
-1.
-## Inscription sur le site
+### 5. Inscription sur le site
 
   1. L'utilisation des Services nécessite que l'Utilisateur s'inscrive sur le site, en remplissant le formulaire prévu à cet effet. L'Utilisateur doit fournir l'ensemble des informations marquées comme obligatoires. Toute inscription incomplète ne sera pas validée.
 
@@ -55,13 +48,11 @@ L'Utilisateur s'engage à utiliser personnellement les Services et à ne permett
 
 Il est pareillement responsable du maintien de la confidentialité de son identifiant et de son mot de passe. Il doit immédiatement contacter **[NomSociété]** aux coordonnées mentionnées à l'article 2 des présentes s'il remarque que son Compte a été utilisé à son insu. Il reconnaît à **[NomSociété]** le droit de prendre toutes mesures appropriées en pareil cas.
 
-1.
-## Description des Services
+### 6. Description des Services
 
 L'Utilisateur a accès aux Services décrits sur le site, sous une forme et selon les fonctionnalités et moyens techniques que **[NomSociété]** juge les plus appropriés.
 
-1.
-## Services gratuits[ou] payants
+### 7. Services gratuits[ou] payants
 
 Les Services sont fournis à titre gratuit.
 
@@ -107,8 +98,7 @@ L'Utilisateur est informé et accepte expressément que tout retard de paiement 
 
 1. la facturation au profit de **[NomSociété]** d'un intérêt de retard au taux de **[****en chiffres et en lettres]** le taux de l'intérêt légal, assis sur le montant de l'intégralité des sommes dues par l'Utilisateur.
 
-1.
-## Données
+### 8. Données
 
 L'Utilisateur reconnaît et accepte expressément :
 
@@ -118,8 +108,7 @@ L'Utilisateur reconnaît et accepte expressément :
 
 L'Utilisateur peut accéder à ces données dans son Espace Personnel.
 
-1.
-## Obligations de l'Utilisateur
+### 9. Obligations de l'Utilisateur
 
 Sans préjudice des autres obligations prévues aux présentes, l'Utilisateur s'engage à respecter les obligations qui suivent :
 
@@ -157,15 +146,14 @@ L'Utilisateur s'interdit ainsi de diffuser, notamment et sans que cette liste so
   1. L'Utilisateur doit prendre les mesures nécessaires pour sauvegarder par ses propres moyens les informations de son Espace Personnel qu'il juge nécessaires, dont aucune copie ne lui sera fournie.
 
   1. L'Utilisateur est informé et accepte que la mise en œuvre des Services nécessite qu'il soit connecté à internet et que la qualité des Services dépend directement de cette connexion, dont il est seul responsable.
-1.
-## Garantie de l'Utilisateur
+
+### 10. Garantie de l'Utilisateur
 
 L'Utilisateur garantit **[NomSociété]** contre toutes plaintes, réclamations, actions et/ou revendications quelconques que **[NomSociété]** pourrait subir du fait de la violation, par l'Utilisateur de l'une quelconque de ses obligations ou garanties aux termes des présentes conditions générales.
 
 Il s'engage à indemniser **[NomSociété]** de tout préjudice qu'elle subirait et à lui payer tous les frais, charges et/ou condamnations qu'elle pourrait avoir à supporter de ce fait.
 
-1.
-## Comportements prohibés
+### 11. Comportements prohibés
 
   1. Il est strictement interdit d'utiliser les Services aux fins suivantes :
 
@@ -182,8 +170,8 @@ Il s'engage à indemniser **[NomSociété]** de tout préjudice qu'elle subirait
   1. Sont également strictement interdits : (i) tous comportements de nature à interrompre, suspendre, ralentir ou empêcher la continuité des Services, (ii) toutes intrusions ou tentatives d'intrusions dans les systèmes de **[NomSociété]**, (iii) tous détournements des ressources système du site, (iv) toutes actions de nature à imposer une charge disproportionnée sur les infrastructures de ce dernier, (v) toutes atteintes aux mesures de sécurité et d'authentification, (vi) tous actes de nature à porter atteinte aux droits et intérêts financiers, commerciaux ou moraux de **[NomSociété]**ou des usagers de son site, et enfin plus généralement (vii) tout manquement aux présentes conditions générales.
 
   1. Il est strictement interdit de monnayer, vendre ou concéder tout ou partie de l'accès aux Services ou au site, ainsi qu'aux informations qui y sont hébergées et/ou partagées.
-1.
-## Sanctions des manquements
+
+### 12. Sanctions des manquements
 
 En cas de manquement à l'une quelconque des dispositions des présentes conditions générales ou plus généralement, d'infraction aux lois et règlements en vigueur par un Utilisateur, **[NomSociété]** se réserve le droit de prendre toute mesure appropriée et notamment de :
 
@@ -193,8 +181,7 @@ En cas de manquement à l'une quelconque des dispositions des présentes conditi
 4. avertir toute autorité concernée,
 5. engager toute action judiciaire.
 
-1.
-## Responsabilité et garantie de [NomSociété]
+### 13. Responsabilité et garantie de [NomSociété]
 
   1. **[NomSociété]**s'engage à fournir les Services avec diligence et selon les règles de l'art, étant précisé qu'il pèse sur elle une obligation de moyens, à l'exclusion de toute obligation de résultat, ce que les Utilisateurs reconnaissent et acceptent expressément.
 
@@ -212,23 +199,19 @@ Les Contenus préjudiciables à un tiers peuvent faire l'objet d'une notificatio
 
   1. En tout état de cause, la responsabilité susceptible d'être encourue par **[NomSociété]** au titre des présentes est expressément limitée aux seuls dommages directs avérés subis par l'Utilisateur.
 
-1.
-## Propriété intellectuelle
+### 14. Propriété intellectuelle
 
 Les systèmes, logiciels, structures, infrastructures, bases de données et contenus de toute nature (textes, images, visuels, musiques, logos, marques, base de données, etc …) exploités par **[NomSociété]** au sein du site sont protégés par tous droits de propriété intellectuelle ou droits des producteurs de bases de données en vigueur. Tous désassemblages, décompilations, décryptages, extractions, réutilisations, copies et plus généralement, tous actes de reproduction, représentation, diffusion et utilisation de l'un quelconque de ces éléments, en tout ou partie, sans l'autorisation de **[NomSociété]** sont strictement interdits et pourront faire l'objet de poursuites judiciaires.
 
-1.
-## Données à caractère personnel
+### 15. Données à caractère personnel
 
 **[NomSociété]** pratique une politique de protection des données personnelles dont les caractéristiques sont explicitées dans le document intitulé _«  __Charte de confidentialité »__ ,_ dont l'Utilisateur est expressément invité à prendre connaissance sur le site.
 
-1.
-## Publicité
+### 16. Publicité
 
 **[NomSociété]**se réserve la faculté d'insérer sur toute page du site et dans toute communication aux Utilisateurs tous messages publicitaires ou promotionnels sous une forme et dans des conditions dont **[NomSociété]**sera seule juge.
 
-1.
-## Liens et sites tiers
+### 17. Liens et sites tiers
 
 **[NomSociété]** ne pourra en aucun cas être tenue pour responsable de la disponibilité technique de sites internet ou d'applications mobiles exploités par des tiers (y compris ses éventuels partenaires) auxquels l'Utilisateur accéderait par l'intermédiaire du site.
 
@@ -236,8 +219,7 @@ Les systèmes, logiciels, structures, infrastructures, bases de données et cont
 
 **[NomSociété]** n'est pas non plus responsable des transactions intervenues entre l'Utilisateur et un quelconque annonceur, professionnel ou commerçant (y compris ses éventuels partenaires) vers lequel l'Utilisateur serait orienté par l'intermédiaire du site et ne saurait en aucun cas être partie à quelques litiges éventuels que ce soit avec ces tiers concernant notamment la livraison de produits et/ou services, les garanties, déclarations et autres obligations quelconques auxquelles ces tiers sont tenus.
 
-1.
-## Durée des Services, désinscription
+### 18. Durée des Services, désinscription
 
 Les Services sont souscrits pour une durée indéterminée.
 
@@ -245,8 +227,7 @@ L'Utilisateur peut se désinscrire des Services à tout moment, en adressant une
 
 La désinscription est effective immédiatement. Elle entraîne la suppression automatique du Compte de l'Utilisateur.
 
-1.
-## Modifications
+### 19. Modifications
 
 **[NomSociété]** se réserve la faculté de modifier à tout moment les présentes conditions générales.
 
@@ -256,20 +237,17 @@ L'Utilisateur qui n'accepte pas les conditions générales modifiées doit se d�
 
 Tout Utilisateur qui a recours aux Services postérieurement à l'entrée en vigueur des conditions générales modifiées est réputé avoir accepté ces modifications.
 
-1.
-## Langue
+### 20. Langue
 
 Dans l'hypothèse d'une traduction des présentes conditions générales dans une ou plusieurs langues, la langue d'interprétation sera la langue française en cas de contradiction ou de contestation sur la signification d'un terme ou d'une disposition.
 
-1.
-## Loi applicable et juridiction
+### 21. Loi applicable et juridiction
 
 Les présentes conditions générales sont régies par la loi française.
 
 En cas de contestation sur la validité, l'interprétation et/ou l'exécution des présentes conditions générales, les parties conviennent que les tribunaux de Paris seront exclusivement compétents pour en juger, sauf règles de procédure impératives contraires.
 
-1.
-## Entrée en vigueur
+### 22. Entrée en vigueur
 
 Les présentes conditions générales sont entrées en vigueur le **[date]****.**
 
