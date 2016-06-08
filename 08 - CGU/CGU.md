@@ -10,7 +10,7 @@ Elles peuvent être complétées, le cas échéant, par des conditions d'utilisa
 
 ### 2. Exploitant des Services
 
-Les Services sont exploités par lasociété **[dénomination sociale]**, **[forme]** au capital social de **[montant du capital]** euros, immatriculée au RCS de **[ville]** sous le n° **[numéro****] **, dont le siège social est situé** [adresse]**(ci-après : « NomSociété** **»).
+Les Services sont exploités par la société **[dénomination sociale]**, **[forme]** au capital social de **[montant du capital]** euros, immatriculée au RCS de **[ville]** sous le n° **[numéro****] **, dont le siège social est situé ** [adresse]** (ci-après : « **[NomSociété]**»).
 
 **[NomSociété]** peut être contactée aux coordonnées suivantes :
 
@@ -34,7 +34,7 @@ L'acceptation des présentes conditions générales est matérialisée par une c
 
   1. L'utilisation des Services nécessite que l'Utilisateur s'inscrive sur le site, en remplissant le formulaire prévu à cet effet. L'Utilisateur doit fournir l'ensemble des informations marquées comme obligatoires. Toute inscription incomplète ne sera pas validée.
 
-L'inscription entraîne automatiquement l'ouverture d'un compte au nom de l'Utilisateur (ci-après : le « Compte »), lui donnant accès à un espace personnel (ci-après : l'« Espace Personnel ») qui lui permet de gérer son utilisation des Services sous une forme et selon les moyens techniques que **[NomSociété]**juge les plus appropriés pour rendre lesdits Services.
+L'inscription entraîne automatiquement l'ouverture d'un compte au nom de l'Utilisateur (ci-après : le « Compte »), lui donnant accès à un espace personnel (ci-après : l'« Espace Personnel ») qui lui permet de gérer son utilisation des Services sous une forme et selon les moyens techniques que **[NomSociété]** juge les plus appropriés pour rendre lesdits Services.
 
 L'Utilisateur garantit que toutes les informations qu'il donne dans le formulaire d'inscription sont exactes, à jour et sincères et ne sont entachées d'aucun caractère trompeur.
 
@@ -52,7 +52,7 @@ Il est pareillement responsable du maintien de la confidentialité de son identi
 
 L'Utilisateur a accès aux Services décrits sur le site, sous une forme et selon les fonctionnalités et moyens techniques que **[NomSociété]** juge les plus appropriés.
 
-### 7. Services gratuits[ou] payants
+### 7. Services gratuits [ou] payants
 
 Les Services sont fournis à titre gratuit.
 
@@ -64,7 +64,7 @@ Le prix des Services est indiqué sur le site.
 
 Sauf mention contraire, ils sont exprimés en euros et toutes taxes françaises comprises.
 
-**[NomSociété]**se réserve le droit, à sa libre discrétion et selon des modalités dont elle sera seule juge, de proposer des offres promotionnelles ou réductions de prix.
+**[NomSociété]** se réserve le droit, à sa libre discrétion et selon des modalités dont elle sera seule juge, de proposer des offres promotionnelles ou réductions de prix.
 
   1. **Révision des prix**
 
@@ -84,7 +84,7 @@ Les modalités de paiement du prix des Services sont décrites sur le site.
 
 Le paiement s'effectue par prélèvement automatique à partir du numéro de carte bancaire de l'Utilisateur.
 
-Le prélèvement est mis en œuvre par le prestataire de paiement désigné sur le site,qui seul conserve les coordonnées bancaires de l'Utilisateur à cette fin. **[NomSociété]**ne conserve aucune coordonnée bancaire.
+Le prélèvement est mis en œuvre par le prestataire de paiement désigné sur le site,qui seul conserve les coordonnées bancaires de l'Utilisateur à cette fin. **[NomSociété]** ne conserve aucune coordonnée bancaire.
 
 L'Utilisateur garantit à **[NomSociété]** qu'il dispose des autorisations nécessaires pour utiliser le mode de paiement choisi. Il s'engage à prendre les mesures nécessaires afin que le prélèvement automatique du prix des Services puisse être effectué.
 
@@ -104,7 +104,7 @@ L'Utilisateur reconnaît et accepte expressément :
 
 1. que les données recueillies sur le site et sur les équipements informatiques de **[NomSociété]** font foi de la réalité des opérations intervenues dans le cadre des présentes ;
 
-1. que ces données constituent le seul mode de preuve admis entre les parties, notamment pour le calcul des sommes dues à **[NomSociété].**
+1. que ces données constituent le seul mode de preuve admis entre les parties, notamment pour le calcul des sommes dues à **[NomSociété]**.
 
 L'Utilisateur peut accéder à ces données dans son Espace Personnel.
 
@@ -165,7 +165,7 @@ Il s'engage à indemniser **[NomSociété]** de tout préjudice qu'elle subirait
 - l'aide ou l'incitation, sous quelque forme et de quelque manière que ce soit, à un ou plusieurs des actes et activités décrits ci-dessus,
 - et plus généralement toute pratique détournant les Services à des fins autres que celles pour lesquelles ils ont été conçus.
 
-  1. Il est strictement interdit aux Utilisateurs de copier et/ou de détourner à leurs fins ou à celles de tiers le concept, les technologies ou tout autre élément du site de **[NomSociété].**
+  1. Il est strictement interdit aux Utilisateurs de copier et/ou de détourner à leurs fins ou à celles de tiers le concept, les technologies ou tout autre élément du site de **[NomSociété]**.
 
   1. Sont également strictement interdits : (i) tous comportements de nature à interrompre, suspendre, ralentir ou empêcher la continuité des Services, (ii) toutes intrusions ou tentatives d'intrusions dans les systèmes de **[NomSociété]**, (iii) tous détournements des ressources système du site, (iv) toutes actions de nature à imposer une charge disproportionnée sur les infrastructures de ce dernier, (v) toutes atteintes aux mesures de sécurité et d'authentification, (vi) tous actes de nature à porter atteinte aux droits et intérêts financiers, commerciaux ou moraux de **[NomSociété]**ou des usagers de son site, et enfin plus généralement (vii) tout manquement aux présentes conditions générales.
 
@@ -183,7 +183,7 @@ En cas de manquement à l'une quelconque des dispositions des présentes conditi
 
 ### 13. Responsabilité et garantie de [NomSociété]
 
-  1. **[NomSociété]**s'engage à fournir les Services avec diligence et selon les règles de l'art, étant précisé qu'il pèse sur elle une obligation de moyens, à l'exclusion de toute obligation de résultat, ce que les Utilisateurs reconnaissent et acceptent expressément.
+  1. **[NomSociété]** s'engage à fournir les Services avec diligence et selon les règles de l'art, étant précisé qu'il pèse sur elle une obligation de moyens, à l'exclusion de toute obligation de résultat, ce que les Utilisateurs reconnaissent et acceptent expressément.
 
   1. **[NomSociété]** n'a pas connaissance des Contenus mis en ligne par les Utilisateurs dans le cadre des Services, sur lesquels elle n'effectue aucune modération, sélection, vérification ou contrôle d'aucune sorte et à l'égard desquels elle n'intervient qu'en tant que prestataire d'hébergement.
 
@@ -193,7 +193,7 @@ Les Contenus préjudiciables à un tiers peuvent faire l'objet d'une notificatio
 
   1. **[NomSociété]** décline toute responsabilité en cas de perte éventuelle des informations accessibles dans l'Espace Personnel de l'Utilisateur, celui-ci devant en sauvegarder une copie et ne pouvant prétendre à aucun dédommagement à ce titre.
 
-  1. **[NomSociété]** s'engage à procéder régulièrement à des contrôles afin de vérifier le fonctionnement et l'accessibilité du site. A ce titre **,** **[NomSociété]** se réserve la faculté d'interrompre momentanément l'accès au site pour des raisons de maintenance. De même, **[NomSociété]** ne saurait être tenue responsable des difficultés ou impossibilités momentanées d'accès au site qui auraient pour origine des circonstances qui lui sont extérieures, la force majeure, ou encore qui seraient dues à des perturbations des réseaux de télécommunication.
+  1. **[NomSociété]** s'engage à procéder régulièrement à des contrôles afin de vérifier le fonctionnement et l'accessibilité du site. A ce titre, **[NomSociété]** se réserve la faculté d'interrompre momentanément l'accès au site pour des raisons de maintenance. De même, **[NomSociété]** ne saurait être tenue responsable des difficultés ou impossibilités momentanées d'accès au site qui auraient pour origine des circonstances qui lui sont extérieures, la force majeure, ou encore qui seraient dues à des perturbations des réseaux de télécommunication.
 
   1. **[NomSociété]** ne garantit pas aux Utilisateurs (i) que les Services, soumis à une recherche constante pour en améliorer notamment la performance et le progrès, seront totalement exempts d'erreurs, de vices ou défauts, (ii) que les Services, étant standard et nullement proposés à la seule intention d'un Utilisateur donné en fonction de ses propres contraintes personnelles, répondront spécifiquement à ses besoins et attentes.
 
@@ -209,13 +209,13 @@ Les systèmes, logiciels, structures, infrastructures, bases de données et cont
 
 ### 16. Publicité
 
-**[NomSociété]**se réserve la faculté d'insérer sur toute page du site et dans toute communication aux Utilisateurs tous messages publicitaires ou promotionnels sous une forme et dans des conditions dont **[NomSociété]**sera seule juge.
+**[NomSociété]** se réserve la faculté d'insérer sur toute page du site et dans toute communication aux Utilisateurs tous messages publicitaires ou promotionnels sous une forme et dans des conditions dont **[NomSociété]** sera seule juge.
 
 ### 17. Liens et sites tiers
 
 **[NomSociété]** ne pourra en aucun cas être tenue pour responsable de la disponibilité technique de sites internet ou d'applications mobiles exploités par des tiers (y compris ses éventuels partenaires) auxquels l'Utilisateur accéderait par l'intermédiaire du site.
 
-**[NomSociété]**n'endosse aucune responsabilité au titre des contenus, publicités, produits et/ou services disponibles sur de tels sites et applications mobiles tiers dont il est rappelé qu'ils sont régis par leurs propres conditions d'utilisation.
+**[NomSociété]** n'endosse aucune responsabilité au titre des contenus, publicités, produits et/ou services disponibles sur de tels sites et applications mobiles tiers dont il est rappelé qu'ils sont régis par leurs propres conditions d'utilisation.
 
 **[NomSociété]** n'est pas non plus responsable des transactions intervenues entre l'Utilisateur et un quelconque annonceur, professionnel ou commerçant (y compris ses éventuels partenaires) vers lequel l'Utilisateur serait orienté par l'intermédiaire du site et ne saurait en aucun cas être partie à quelques litiges éventuels que ce soit avec ces tiers concernant notamment la livraison de produits et/ou services, les garanties, déclarations et autres obligations quelconques auxquelles ces tiers sont tenus.
 
@@ -249,7 +249,4 @@ En cas de contestation sur la validité, l'interprétation et/ou l'exécution de
 
 ### 22. Entrée en vigueur
 
-Les présentes conditions générales sont entrées en vigueur le **[date]****.**
-
-
-
+Les présentes conditions générales sont entrées en vigueur le **[date]**.
