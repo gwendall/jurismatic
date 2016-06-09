@@ -1,48 +1,48 @@
-**[société:nom]**
+**{{société:nom}}**
 
 Société par Actions Simplifiée
 
-au capital de **[société:capital]** euros
+au capital de **{{société:capital}}** euros
 
-Siège social : **[société:adresse]**
+Siège social : **{{société:adresse}}**
 
 En cours de constitution
 
 **STATUTS CONSTITUTIFS**
 
-**En date du** **[date]**  **2014**
+**En date du** **{{date}}**  **2014**
 
-**[société:nom]**
+**{{société:nom}}**
 
 Société par Actions Simplifiée
 
-Au capital de **[société:montant]** Euros
+Au capital de **{{société:montant}}** Euros
 
-Siège Social : **[société:adresse]**
+Siège Social : **{{société:adresse}}**
 
-En cours de constitution au RCS de **[société:numéroRCS]**
+En cours de constitution au RCS de **{{société:numéroRCS}}**
 
-Pour satisfaire aux dispositions de l'article  [R 224-2 du Code de commerce](javascript:%20documentLink('CCOM4253')), il est précisé que les présents statuts ont été signés par :
+Pour satisfaire aux dispositions de l'article  {{R 224-2 du Code de commerce}}(javascript:%20documentLink('CCOM4253')), il est précisé que les présents statuts ont été signés par :
 
-**1/ [associé_1:civilité]** **[associé_1:nom]**
+**1/ {{associé_1:civilité}}** **{{associé_1:nom}}**
 
-Né(e) le **[associé_1:dateDeNaissance]**à **[associé_1:villeDeNaissance]** (**[****associé_1:departementDeNaissance]**)
-
-De nationalité française
-
-Demeurant **[associé_1:adresse]**
-
-[associé_1:statutMarital] sous le régime de la communauté de **[associé_1:regimeMarital]**
-
-**2/ [associé_2:civilité]** **[associé_2:nom]**
-
-Né(e) le **[associé_2:dateDeNaissance]**à **[associé_2:villeDeNaissance]** (**[****associé_2:departementDeNaissance]**)
+Né(e) le **{{associé_1:dateDeNaissance}}**à **{{associé_1:villeDeNaissance}}** (**{{****associé_1:departementDeNaissance}}**)
 
 De nationalité française
 
-Demeurant **[associé_2:adresse]**
+Demeurant **{{associé_1:adresse}}**
 
-[associé_2:statutMarital] sous le régime de la communauté de **[associé_2:regimeMarital]**
+{{associé_1:statutMarital}} sous le régime de la communauté de **{{associé_1:regimeMarital}}**
+
+**2/ {{associé_2:civilité}}** **{{associé_2:nom}}**
+
+Né(e) le **{{associé_2:dateDeNaissance}}**à **{{associé_2:villeDeNaissance}}** (**{{****associé_2:departementDeNaissance}}**)
+
+De nationalité française
+
+Demeurant **{{associé_2:adresse}}**
+
+{{associé_2:statutMarital}} sous le régime de la communauté de **{{associé_2:regimeMarital}}**
 
 **TITRE I. FORME - OBJET - DENOMINATION - SIEGE SOCIAL - DUREE - EXERCICE SOCIAL**
 
@@ -59,9 +59,9 @@ Elle fonctionne indifféremment sous la même forme avec un ou plusieurs Associ�
 
 La Société a pour objet, directement ou indirectement en France et en tous pays :
 
-- La conception, l'édition, le développement et l'exploitation de sites internet et mobiles, dans tous domaines d'activités, permettant notamment **[produit:objet]** ;
+- La conception, l'édition, le développement et l'exploitation de sites internet et mobiles, dans tous domaines d'activités, permettant notamment **{{produit:objet}}** ;
 
-- La réalisation de prestations de services, dans tous domaines d'activités, permettant notamment **[produit:objet2]**;
+- La réalisation de prestations de services, dans tous domaines d'activités, permettant notamment **{{produit:objet2}}**;
 
 - La conception, le développement, l'édition, l'exploitation de logiciels, d'applications multimédias ainsi que plus généralement de tous développements à caractère informatique et/ou multimédia, sur tout support connu ou inconnu à ce jour et dans tous domaines d'activités ;
 
@@ -81,13 +81,13 @@ La Société a pour objet, directement ou indirectement en France et en tous pay
 
 **ARTICLE 3 - DENOMINATION**
 
-La Société a pour dénomination sociale : « **[société:nom]**».
+La Société a pour dénomination sociale : « **{{société:nom}}**».
 
 Dans tous les actes et documents émanant de la Société et destinés aux tiers, la dénomination sera précédée ou suivie immédiatement des mots écrits lisiblement « Société par Actions Simplifiée » ou des initiales « S.A.S. », de l'énonciation du montant du capital social, ainsi que le numéro d'identification SIREN et la mention RCS suivie du nom de la ville où se trouve le greffe où elle sera immatriculée.
 
 **ARTICLE 4 - SIEGE SOCIAL**
 
-Le siège social est fixé **[société:adresse]**, situé dans le ressort du Tribunal de commerce de **[société:ville]**, lieu de son immatriculation au Registre du Commerce et des Sociétés.
+Le siège social est fixé **{{société:adresse}}**, situé dans le ressort du Tribunal de commerce de **{{société:ville}}**, lieu de son immatriculation au Registre du Commerce et des Sociétés.
 
 Le transfert du siège social, la création, le déplacement, la fermeture des succursales, agences et dépôts situés en tous lieux ou à l'étranger interviennent sur décision du Président, sous réserve de ratification par l'Associé unique ou la collectivité des Associés délibérant dans les conditions prévues pour les décisions ordinaires.
 
@@ -101,7 +101,7 @@ Un an au moins avant la date d'expiration de la Société, le Président doit pr
 
 L'exercice social commence le 1er janvier et se termine le 31 décembre de chaque année.
 
-Exceptionnellement, le premier exercice social comprend le temps écoulé depuis l'immatriculation de la Société au Registre du Commerce et des Sociétés jusqu'au **31 décembre** **[société:annéeDeCréation]**.
+Exceptionnellement, le premier exercice social comprend le temps écoulé depuis l'immatriculation de la Société au Registre du Commerce et des Sociétés jusqu'au **31 décembre** **{{société:annéeDeCréation}}**.
 
 En outre, les actes accomplis pour son compte pendant la période de constitution et repris par la Société seront rattachés à cet exercice.
 
@@ -111,17 +111,17 @@ En outre, les actes accomplis pour son compte pendant la période de constitutio
 
 Toutes les actions d'origine formant le capital initial représentent des apports en numéraire et ont été, dès avant ce jour, intégralement souscrites et libérées en totalité.
 
-Total des apports formant le capital social initial : **[société:capital]** (**[société:capitalLettres]**) euros, correspondant à **[société:nbActions]** (**[société:nbActionsLettres]**) actions de 1 (un) euro chacune, souscrites en totalité et libérées de la totalité de leur valeur nominale.
+Total des apports formant le capital social initial : **{{société:capital}}** (**{{société:capitalLettres}}**) euros, correspondant à **{{société:nbActions}}** (**{{société:nbActionsLettres}}**) actions de 1 (un) euro chacune, souscrites en totalité et libérées de la totalité de leur valeur nominale.
 
-La somme versée à la constitution a été déposée sur un compte de la Banque **[banque:nom]**, Agence **[banque:agence:nom] **, située** [banque:agence:lieu]**, ouvert au nom de la Société en formation.
+La somme versée à la constitution a été déposée sur un compte de la Banque **{{banque:nom}}**, Agence **{{banque:agence:nom}} **, située** {{banque:agence:lieu}}**, ouvert au nom de la Société en formation.
 
-**[associé_1:nom]** déclare, en raison de l'article 1832-2 du Code civil, que ses apports ont le caractère de biens communs.
+**{{associé_1:nom}}** déclare, en raison de l'article 1832-2 du Code civil, que ses apports ont le caractère de biens communs.
 
-Son épouse (époux), [associé_1:civilité] **[associé_1:nom]**, a d'ores et déjà et par acte séparé, déclaré qu'il consentait à l'apport de son conjoint, mais renonçait à devenir personnellement associée de la Société.
+Son épouse (époux), {{associé_1:civilité}} **{{associé_1:nom}}**, a d'ores et déjà et par acte séparé, déclaré qu'il consentait à l'apport de son conjoint, mais renonçait à devenir personnellement associée de la Société.
 
 **ARTICLE 7 - CAPITAL SOCIAL**
 
-Le capital social est fixé à la somme de **[société:capital]**(**[société:capitalLettres]**) euros, divisé en **[société:nbActions]**(**[société:nbActionsLettres]**) actions égales de **[société:valeurParAction]** (**[société:valeurParActionLettres]**) euro, de même catégorie et libérées en totalité de leur valeur nominale.
+Le capital social est fixé à la somme de **{{société:capital}}**(**{{société:capitalLettres}}**) euros, divisé en **{{société:nbActions}}**(**{{société:nbActionsLettres}}**) actions égales de **{{société:valeurParAction}}** (**{{société:valeurParActionLettres}}**) euro, de même catégorie et libérées en totalité de leur valeur nominale.
 
 **ARTICLE 8 - MODIFICATIONS DU CAPITAL SOCIAL**
 
@@ -751,26 +751,26 @@ Toutes les contestations qui pourraient s'élever pendant la durée de la Socié
 
 **Le premier Président de la Société** , nommé sans limitation de durée aux termes des présents statuts, est :
 
-**[président:civilité]** **[président:nom]**
+**{{président:civilité}}** **{{président:nom}}**
 
-Né le **[président:dateDeNaissance]** à **[président:lieuDeNaissance]** (**[président:départementDeNaissance]**)
+Né le **{{président:dateDeNaissance}}** à **{{président:lieuDeNaissance}}** (**{{président:départementDeNaissance}}**)
 
-De nationalité [président:nationalité]
+De nationalité {{président:nationalité}}
 
-Demeurant **[président:adresse]**
+Demeurant **{{président:adresse}}**
 
 lequel déclare accepter les fonctions qui viennent de lui être conférées et satisfaire à toutes les conditions requises par la Loi et les règlements pour leur exercice.
 
 
 **Le premier Directeur Général de la Société** , nommé sans limitation de durée aux termes des présents statuts sans que celle-ci ne puisse excéder la durée du mandat du Président, est :
 
-**[directeurGénéral:civilité]** **[directeurGénéral:nom]**
+**{{directeurGénéral:civilité}}** **{{directeurGénéral:nom}}**
 
-Né le **[directeurGénéral:dateDeNaissance]** à **[directeurGénéral:lieuDeNaissance]** (**[directeurGénéral:départementDeNaissance]**)
+Né le **{{directeurGénéral:dateDeNaissance}}** à **{{directeurGénéral:lieuDeNaissance}}** (**{{directeurGénéral:départementDeNaissance}}**)
 
-De nationalité [directeurGénéral:nationalité]
+De nationalité {{directeurGénéral:nationalité}}
 
-Demeurant **[directeurGénéral:adresse]**
+Demeurant **{{directeurGénéral:adresse}}**
 
 lequel déclare accepter les fonctions qui viennent de lui être conférées et satisfaire à toutes les conditions requises par la Loi et les règlements pour leur exercice.
 
@@ -778,9 +778,9 @@ lequel déclare accepter les fonctions qui viennent de lui être conférées et 
 
 Tous pouvoirs sont conférés au porteur d'un original des présentes à l'effet d'accomplir les formalités de publicité, de dépôt et autres nécessaires pour parvenir à l'immatriculation de la Société au registre du commerce et des Sociétés.
 
-Fait à **[document:lieuSignature]** en **[document:nbOriginaux]**originaux
+Fait à **{{document:lieuSignature}}** en **{{document:nbOriginaux}}**originaux
 
-Le **[document:dateSignature]**
+Le **{{document:dateSignature}}**
 
 | **\_\_\_\_\_\_\_\_\_\_\_\_\_\_** _« Bon pour acceptation des fonctions de Président »_
 
@@ -803,11 +803,11 @@ Le **[document:dateSignature]**
 **ETAT DES ACTES ACCOMPLIS POUR LE COMPTE DE LA
  SOCIETE EN FORMATION AVANT LA SIGNATURE DES STATUTS**
 
-- Ouverture d'un compte bancaire auprès de la Banque **[banque:nom]**, agence sise **[banque:agence:adresse]** ;
+- Ouverture d'un compte bancaire auprès de la Banque **{{banque:nom}}**, agence sise **{{banque:agence:adresse}}** ;
 
-- Dépôt par **[société:nom]** de la marque française **[société:nom]**, le **[date]**, auprès de l'INPI, pour un montant de **[société:capital]** euros TTC ;
+- Dépôt par **{{société:nom}}** de la marque française **{{société:nom}}**, le **{{date}}**, auprès de l'INPI, pour un montant de **{{société:capital}}** euros TTC ;
 
-- Réservation des noms de domaine « **[nomsDeDomaine:noms]** », le **[date]**, auprès de **[nomsDeDomaine:registrar]**, pour un montant de **[nomsDeDomaine:coutTTC]** TTC (**[nomsDeDomaine:coutHT]** HT)
+- Réservation des noms de domaine « **{{nomsDeDomaine:noms}}** », le **{{date}}**, auprès de **{{nomsDeDomaine:registrar}}**, pour un montant de **{{nomsDeDomaine:coutTTC}}** TTC (**{{nomsDeDomaine:coutHT}}** HT)
 
 - Etc. …
 
@@ -817,20 +817,20 @@ SOUSCRIPTEURS
 | --- | --- | --- | --- | --- |
 |
  |
- | **[•]** euro | **[•]** euros |
+ | **{{•}}** euro | **{{•}}** euros |
  |
 |
  |
- | **[•]** euro | **[•]** euros |
+ | **{{•}}** euro | **{{•}}** euros |
  |
 |
  |
- | **[•]** euro | **[•]** euros |
+ | **{{•}}** euro | **{{•}}** euros |
  |
 | **Total** |
- | **[•] euro** | **[•]**  **euros** |
+ | **{{•}} euro** | **{{•}}**  **euros** |
  |
 
-Les **[nombre en chiffres]** (**[nombre en lettres]**) actions d'origine, d'une valeur nominale de **[montant en chiffres]** (**[montant en lettres]**) euro chacune, formant le capital initial représentent des apports en numéraire d'un montant total de **[montant en chiffres]** (**[montant en lettres]**) euros et ont été libérées en totalité à la souscription, ainsi qu'il résulte de l'attestation du dépositaire des fonds, la Banque **[nom]**, Agence **[nom]**, située **[lieu]**.
+Les **{{nombre en chiffres}}** (**{{nombre en lettres}}**) actions d'origine, d'une valeur nominale de **{{montant en chiffres}}** (**{{montant en lettres}}**) euro chacune, formant le capital initial représentent des apports en numéraire d'un montant total de **{{montant en chiffres}}** (**{{montant en lettres}}**) euros et ont été libérées en totalité à la souscription, ainsi qu'il résulte de l'attestation du dépositaire des fonds, la Banque **{{nom}}**, Agence **{{nom}}**, située **{{lieu}}**.
 
 
