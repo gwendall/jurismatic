@@ -2,41 +2,41 @@
 
 **ENTRE LES SOUSSIGNES**  **:**
 
-**1/ [associé1:civilite] ** **[associé1:nom]** **[associé1:prenom]**
+**1/ {{associé1:civilite}} ** **{{associé1:nom}}** **{{associé1:prenom}}**
 
-Né(e) le **[associé1:date] **à **[associé1:lieu]** (**[associé1:département]**)
+Né(e) le **{{associé1:date}} **à **{{associé1:lieu}}** (**{{associé1:département}}**)
 
 De nationalité française
 
-Demeurant **[associé1:adresse]**
+Demeurant **{{associé1:adresse}}**
 
-[associé1:statutMarital]
+{{associé1:statutMarital}}
 
 **de première part,**
 
-**2/ [associé2:civilite] ** **[associé2:nom]** **[associé2:prenom]**
+**2/ {{associé2:civilite}} ** **{{associé2:nom}}** **{{associé2:prenom}}**
 
-Né(e) le **[associé2:date] **à **[associé2:lieu]** (**[associé2:département]**)
+Né(e) le **{{associé2:date}} **à **{{associé2:lieu}}** (**{{associé2:département}}**)
 
 De nationalité française
 
-Demeurant **[associé2:adresse]**
+Demeurant **{{associé2:adresse}}**
 
-[associé2:statutMarital]
+{{associé2:statutMarital}}
 
 **de**  **deuxième**  **part,**
 
-**3/ Monsieur / Madame** **[nom]**
+**3/ Monsieur / Madame** **{{nom}}**
 
-**2/ [associé3:civilite] ** **[associé3:nom]** **[associé3:prenom]**
+**2/ {{associé3:civilite}} ** **{{associé3:nom}}** **{{associé3:prenom}}**
 
-Né(e) le **[associé3:date] **à **[associé3:lieu]** (**[associé3:département]**)
+Né(e) le **{{associé3:date}} **à **{{associé3:lieu}}** (**{{associé3:département}}**)
 
 De nationalité française
 
-Demeurant **[associé3:adresse]**
+Demeurant **{{associé3:adresse}}**
 
-[associé3:statutMarital]
+{{associé3:statutMarital}}
 
 **de**  **troisième**  **part,**
 
@@ -44,21 +44,21 @@ Demeurant **[associé3:adresse]**
 
 **EN PRESENCE DE :**
 
-**La société** **[société:nom]**, Société par Actions Simplifiée au capital de **[société:capital]** euros, dont le siège social est situé **[société:lieu]**, immatriculée au RCS de **[RCS:lieu]**sous le n° **[RCS:numéro]**, représentée par **[société:nomPrésident]**en sa qualité de Président, dûment habilité.
+**La société** **{{société:nom}}**, Société par Actions Simplifiée au capital de **{{société:capital}}** euros, dont le siège social est situé **{{société:lieu}}**, immatriculée au RCS de **{{RCS:lieu}}**sous le n° **{{RCS:numéro}}**, représentée par **{{société:nomPrésident}}**en sa qualité de Président, dûment habilité.
 
 **IL EST EXPOSE CE QUI SUIT** :
 
-1. La Société**[société:nom]**(ci-après la « Société ») est une Société par Actions Simplifiée, au capital social de **[société:capitalSocialMontant]**euros, divisé en **[société:nombreActions]**actions de **[société:actionMontant]**euro chacune, qui a pour principal objet _« en France et dans tous pays :_ **[société:principalObjet]**_»._
+1. La Société**{{société:nom}}**(ci-après la « Société ») est une Société par Actions Simplifiée, au capital social de **{{société:capitalSocialMontant}}**euros, divisé en **{{société:nombreActions}}**actions de **{{société:actionMontant}}**euro chacune, qui a pour principal objet _« en France et dans tous pays :_ **{{société:principalObjet}}**_»._
 
 1. A ce jour, le capital social de la Société se trouve réparti comme suit :
 
-| **[investisseur1:prénom]** **[investisseur1:nom]** | [investisseur1:nombreActions] Actions |
+| **{{investisseur1:prénom}}** **{{investisseur1:nom}}** | {{investisseur1:nombreActions}} Actions |
 | --- | --- |
-| **[investisseur2:prénom]** **[investisseur2:nom]** | [investisseur2:nombreActions] Actions |
-| **[investisseur3:prénom]** **[investisseur3:nom]** | [investisseur3:nombreActions] Actions |
-| **[investisseur4:prénom]** **[investisseur4:nom]** | [investisseur4:nombreActions] Actions |
-| **[investisseur5:prénom]** **[investisseur5:nom]** | [investisseur5:nombreActions] Actions |
-| **Total d'actions composant le capital social** | **[société:nombreActions] Actions** |
+| **{{investisseur2:prénom}}** **{{investisseur2:nom}}** | {{investisseur2:nombreActions}} Actions |
+| **{{investisseur3:prénom}}** **{{investisseur3:nom}}** | {{investisseur3:nombreActions}} Actions |
+| **{{investisseur4:prénom}}** **{{investisseur4:nom}}** | {{investisseur4:nombreActions}} Actions |
+| **{{investisseur5:prénom}}** **{{investisseur5:nom}}** | {{investisseur5:nombreActions}} Actions |
+| **Total d'actions composant le capital social** | **{{société:nombreActions}} Actions** |
 
 Afin de préserver l'équilibre de leurs intérêts et dans le but d'organiser leurs relations au sein de la Société, les parties soussignées (les « Parties ») ont convenu de conclure le présent pacte (ci-après le « Pacte »).
 
@@ -94,7 +94,7 @@ Le contrôle d'une société au sens de l'article L.233-3 du Code de commerce.
 
 **Dirigeants :**
 
-Désigne au pluriel ensemble **[dirigeant1:prénom]** **[dirigeant1:nom]**,**[dirigeant2:prénom]** **[dirigeant2:nom]**,**[dirigeant3:prénom]** **[dirigeant3:nom]**, ou au singulier l'une ou l'autre de ces personnes.
+Désigne au pluriel ensemble **{{dirigeant1:prénom}}** **{{dirigeant1:nom}}**,**{{dirigeant2:prénom}}** **{{dirigeant2:nom}}**,**{{dirigeant3:prénom}}** **{{dirigeant3:nom}}**, ou au singulier l'une ou l'autre de ces personnes.
 
 **Force Majeure :**
 
@@ -184,7 +184,7 @@ La cession devra être effectuée et le prix payé dans un délai maximum de soi
 
 **Article 9.**** Acquiescement à un plan d'intéressement réservé aux salariés et aux Dirigeants de la Société**
 
-**9.1** Dans la perspective de motivation et de fidélisation, les Parties acquiescent d'ores et déjà à tout plan d'intéressement qui serait soumis à la collectivité des Associés et portant sur l'émission de valeurs mobilières donnant accès au capital aux salariés et aux Dirigeants de la Société (BSPCE, BSA …) et ce, à hauteur d'un nombre global de **[nombre]**Actions.
+**9.1** Dans la perspective de motivation et de fidélisation, les Parties acquiescent d'ores et déjà à tout plan d'intéressement qui serait soumis à la collectivité des Associés et portant sur l'émission de valeurs mobilières donnant accès au capital aux salariés et aux Dirigeants de la Société (BSPCE, BSA …) et ce, à hauteur d'un nombre global de **{{nombre}}**Actions.
 
 **9.2** En tant que de besoin, chacune des Parties ainsi que plus généralement toute nouvelle partie qui viendrait à adhérer au présent Pacte :
 
@@ -204,15 +204,15 @@ Ainsi qu'il est dit dans les statuts, la Société est administrée et dirigée 
 
 - un Président nommé ou renouvelé dans ses fonctions, pour un mandat sans limitation de durée.
 
-**[Prénom Nom]**assure la Présidence de la Société depuis le jour de sa constitution.
+**{{Prénom Nom}}**assure la Présidence de la Société depuis le jour de sa constitution.
 
 - un Directeur Général, également nommé dans ses fonctions pour un mandat sans limitation de durée, étant précisé que la durée de ce mandat ne peut toutefois excéder la durée du mandat du Président.
 
-**[Prénom Nom]**assure la Direction Générale de la Société depuis le jour de sa constitution et,
+**{{Prénom Nom}}**assure la Direction Générale de la Société depuis le jour de sa constitution et,
 
 - un Directeur Général Délégué, également nommé dans ses fonctions pour un mandat sans limitation de durée, étant précisé que la durée de ce mandat ne peut toutefois excéder la durée du mandat du Président et du Directeur Général.
 
-**[Prénom Nom]** a été nommé Directeur Général Délégué de la Société lors de sa constitution.
+**{{Prénom Nom}}** a été nommé Directeur Général Délégué de la Société lors de sa constitution.
 
 **10.2** Il est expressément convenu que, à titre de dérogation aux dispositions statutaires et sous réserve de ratification par la suite par la collectivité des Associés délibérant dans les conditions prévues pour les décisions ordinaires, le Président de la Société dispose librement de la faculté de fixer le montant de la rémunération annuelle des Dirigeants sociaux de la Société.
 
@@ -276,7 +276,7 @@ Les Dirigeants s'engagent à exercer leurs fonctions et/ou mandats au sein de la
 
 - ou encore en cas de violation des engagements de non concurrence et de non sollicitation (article 11), de confidentialité (article 12), ainsi que d'implication (article 13),
 
-**[Option 1 – le partant conserve un certain nombre d'actions en fonction du temps passé au sein de la société]**
+**{{Option 1 – le partant conserve un certain nombre d'actions en fonction du temps passé au sein de la société}}**
 
 chacun des Dirigeants s'engage irrévocablement à céder tout ou partie des Actions, parmi celles qu'il détiendrait alors dans le capital de la Société, aux autres Associés qui en feraient la demande (les « Bénéficiaires » pour les besoins du présent article 14), au prorata de la participation de ces derniers dans le capital social de la Société et ce, **pour un prix forfaitaire correspondant à la valeur nominale** des Actions cédées, de sorte qu'à l'issue de son Départ Fautif, le Dirigeant concerné ne conserve qu'un nombre d'Actions de la Société déterminé en fonction du nombre de mois au cours desquels il aura exercé en exclusivité son mandat et ses fonctions et ce, selon les formules suivantes :
 
@@ -290,7 +290,7 @@ où,
 
 - « M » correspond au nombre de mois au cours desquels il aura exercé son mandat et ses fonctions jusqu'à son Départ Fautif.
 
-**[Option 2 – le partant ne conserve aucune action de la société en suite de son départ fautif]**
+**{{Option 2 – le partant ne conserve aucune action de la société en suite de son départ fautif}}**
 
 chacun des Dirigeants s'engage irrévocablement à céder l'intégralité des actions, parmi celles qu'il détiendrait alors dans le capital de la Société, aux autres Associés qui en feraient la demande, au prorata de la participation de ces derniers dans le capital social de la Société et ce, pour un prix par action déterminé en fonction du nombre de mois « M » au cours desquels il aura exercé en exclusivité son mandat et ses fonctions et ce, de la manière suivante :
 
@@ -306,7 +306,7 @@ où,
 
 1. le solde des actions **pour**** un prix forfaitaire correspondant à la valeur nominale** des Actions cédées.
 
-**[En cas de BSPCE attribué à un Dirigeant]**
+**{{En cas de BSPCE attribué à un Dirigeant}}**
 
 De même, dans l'hypothèse où le Dirigeant concerné par un Départ Fautif serait titulaire de BSPCE :
 
@@ -333,7 +333,7 @@ Si le Dirigeant concerné ne procède pas au transfert des Actions par la remise
 
 Enfin, la date de survenance du Départ Fautif sera, selon les cas, (i) la date de la réception ou de la remise en mains propres de la démission, ou, à défaut d'une telle démission écrite, la date à laquelle, en vertu du droit du travail ou du droit des sociétés, le Dirigeant concerné sera réputé démissionnaire, (ii) la date de l'envoi ou de remise en mains propres de toute révocation ou de toute lettre de licenciement, ou (iii) la date de la réunion de l'organe social au cours desquels la démission serait donnée ou constatée ou la révocation décidée ; les dates de prise d'effet de ces démission, révocation et/ou licenciement et les éventuels délais de préavis ne seront pas pris en compte.
 
-**14.5** A l'exclusion des cas de révocation pour faute grave ou lourde (constituant des causes de Départs Fautifs au sens de l'article 14.1), si au cours de la période de trente-six (36) mois d'exclusivité visée à l'article 13, un Dirigeant venait à être révoqué (ou licencié) de ses fonctions et/ou mandats au sein de la Société, le Dirigeant concerné s'engage irrévocablement, à titre de promesse unilatérale de vente (engageant en cela ses ayants-droit en cas de décès), à céder **[chiffre]**% des Actions qu'il détient dans le capital de la Société, directement ou indirectement via une Holding Familiale, à ceux des Bénéficiaires qui en feraient la demande, à première demande de ceux-ci, pour un prix forfaitaire égal à la valeur de marché des Actions concernées, elle-même déterminée soit d'un commun accord entre les Parties, soit par voie d'expertise, dans les conditions fixées à l'article 1843-4 du Code civil. L'expert devra procéder à la fixation du prix de cession dans un délai maximum de 30 jours à compter de sa désignation (ou à toute autre date postérieure que l'expert déterminera), étant précisé que son expertise sera définitive et liera les parties. Les frais d'expertise seront partagés entre le Dirigeant concerné et le ou les Bénéficiaires.
+**14.5** A l'exclusion des cas de révocation pour faute grave ou lourde (constituant des causes de Départs Fautifs au sens de l'article 14.1), si au cours de la période de trente-six (36) mois d'exclusivité visée à l'article 13, un Dirigeant venait à être révoqué (ou licencié) de ses fonctions et/ou mandats au sein de la Société, le Dirigeant concerné s'engage irrévocablement, à titre de promesse unilatérale de vente (engageant en cela ses ayants-droit en cas de décès), à céder **{{chiffre}}**% des Actions qu'il détient dans le capital de la Société, directement ou indirectement via une Holding Familiale, à ceux des Bénéficiaires qui en feraient la demande, à première demande de ceux-ci, pour un prix forfaitaire égal à la valeur de marché des Actions concernées, elle-même déterminée soit d'un commun accord entre les Parties, soit par voie d'expertise, dans les conditions fixées à l'article 1843-4 du Code civil. L'expert devra procéder à la fixation du prix de cession dans un délai maximum de 30 jours à compter de sa désignation (ou à toute autre date postérieure que l'expert déterminera), étant précisé que son expertise sera définitive et liera les parties. Les frais d'expertise seront partagés entre le Dirigeant concerné et le ou les Bénéficiaires.
 
 Le prix forfaitaire sera assorti d'un complément de prix, lui-même payable en cas de revente des Actions initialement détenues par le Dirigeant par les Bénéficiaires au cours des douze (12) mois suivant la décision ou la délibération décidant du départ du Dirigeant concerné (ci-après la « Revente »), dans les soixante (60) jours suivant la Revente des Actions du Dirigeant par le ou les Bénéficiaires.
 
@@ -445,11 +445,11 @@ Les Parties s'efforceront de régler à l'amiable et dans l'esprit de leurs conv
 
 Dans l'hypothèse où elles n'y parviendraient pas, tout différend sera soumis aux juridictions compétentes dans le ressort de la Cour d'appel de Paris.
 
-Fait à **[pacte:lieu]**,
+Fait à **{{pacte:lieu}}**,
 
-Le **[pacte:date]**
+Le **{{pacte:date}}**
 
-En **[pacte:nombreExemplaires]**exemplaires originaux
+En **{{pacte:nombreExemplaires}}**exemplaires originaux
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -457,8 +457,8 @@ En **[pacte:nombreExemplaires]**exemplaires originaux
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Société** **[société:nom]**
+**Société** **{{société:nom}}**
 
-Représentée par **[représentant:prénom]** **[représentant:nom]**
+Représentée par **{{représentant:prénom}}** **{{représentant:nom}}**
 
 Page **18** sur **18**
