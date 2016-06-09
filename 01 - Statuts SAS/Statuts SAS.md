@@ -26,15 +26,15 @@ Pour satisfaire aux dispositions de l'article  {{R 224-2 du Code de commerce}}(j
 
 {{#each associé}}  
 
-  • **{{civilité}} {{nom}}**
-
-  Né(e) le **{{dateDeNaissance}}**à **{{villeDeNaissance}}** (**{{departementDeNaissance}}**)
-
-  De nationalité {{nationalité}}
-
-  Demeurant **{{adresse}}**
-
-  {{statutMarital}} sous le régime de la communauté de **{{regimeMarital}}**
+    • **{{civilité}} {{nom}}**
+  
+    Né(e) le **{{dateDeNaissance}}**à **{{villeDeNaissance}}** (**{{departementDeNaissance}}**)
+  
+    De nationalité {{nationalité}}
+  
+    Demeurant **{{adresse}}**
+  
+    {{statutMarital}} sous le régime de la communauté de **{{regimeMarital}}**
 
 {{/each}}
 
