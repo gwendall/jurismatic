@@ -4,15 +4,15 @@
 
 **ENTRE LES SOUSSIGNE(E)S :**
 
-**Monsieur ou Madame** **[nom et prénom]**
+**Monsieur ou Madame** **{{nom et prénom}}**
 
-Né(e) le **[date de naissance]**à **[lieu de naissance]**
+Né(e) le **{{date de naissance}}**à **{{lieu de naissance}}**
 
-De nationalité **[nationalité]**
+De nationalité **{{nationalité}}**
 
-Exerçant la profession de **[profession]**
+Exerçant la profession de **{{profession}}**
 
-Demeurant **[adresse du domicile]**
+Demeurant **{{adresse du domicile}}**
 
 **Ci-après dénommé(e) le « Cédant  »,**
 
@@ -20,15 +20,15 @@ Demeurant **[adresse du domicile]**
 
 **ET :**
 
-**La Société [****nom de la société]**
+**La Société {{****nom de la société}}**
 
-**[****forme de la société****]** au capital de **[capital exprimé en chiffres****]** euros
+**{{****forme de la société****}}** au capital de **{{capital exprimé en chiffres****}}** euros
 
-Immatriculée au RCS de **[ville]** sous le numéro **[n° du RCS]**
+Immatriculée au RCS de **{{ville}}** sous le numéro **{{n° du RCS}}**
 
-Dont le siège social est situé **[adresse complète du siège social]**
+Dont le siège social est situé **{{adresse complète du siège social}}**
 
-Représentée par **Monsieur ou Madame** **[Nom et prénom]**en qualité de**[Président ou Gérant ou Directeur Général****]**, dûment habilité aux fins des présentes,
+Représentée par **Monsieur ou Madame** **{{Nom et prénom}}**en qualité de**{{Président ou Gérant ou Directeur Général****}}**, dûment habilité aux fins des présentes,
 
 **Ci-après dénommée le  « Cessionnaire »,**
 
@@ -120,12 +120,12 @@ Le présent contrat est soumis au droit français et sera régi et interprété 
 
 Tout litige pouvant naître à l'occasion de sa validité, de son interprétation ou de son exécution sera soumis à la compétence exclusive des Tribunaux de Paris, sauf règle de procédure impérative contraire.
 
-Fait à **[ville]**, le **[date]****,**
+Fait à **{{ville}}**, le **{{date}}****,**
 
 En deux exemplaires originaux.
 
-| **Pour le Cédant**** [****Nom et prénom du signataire]** |
- | **Pour le Cessionnaire**** [Nom et prénom du signataire]** |
+| **Pour le Cédant**** {{****Nom et prénom du signataire}}** |
+ | **Pour le Cessionnaire**** {{Nom et prénom du signataire}}** |
 | --- | --- | --- |
 
 5
