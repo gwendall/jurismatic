@@ -2,15 +2,15 @@
 
 **ENTRE LES SOUSSIGNE(E)S :**
 
-**La Société [****nom de la société]**
+**La Société {{****nom de la société}}**
 
-**[****forme de la société****]** au capital de **[capital exprimé en chiffres****]** euros
+**{{****forme de la société****}}** au capital de **{{capital exprimé en chiffres****}}** euros
 
-Immatriculée au RCS de **[ville]** sous le numéro **[n° du RCS]**
+Immatriculée au RCS de **{{ville}}** sous le numéro **{{n° du RCS}}**
 
-Dont le siège social est situé **[adresse complète du siège social]**
+Dont le siège social est situé **{{adresse complète du siège social}}**
 
-Représentée par XXX, en qualité de **[Président ou Gérant ou Directeur Général****]**, dûment habilité aux fins des présentes,
+Représentée par XXX, en qualité de **{{Président ou Gérant ou Directeur Général****}}**, dûment habilité aux fins des présentes,
 
 **Ci-après dénommée « la Société »,**
 
@@ -18,15 +18,15 @@ Représentée par XXX, en qualité de **[Président ou Gérant ou Directeur Gén
 
 **ET**
 
-**Monsieur ou Madame** **[Nom et prénom]**
+**Monsieur ou Madame** **{{Nom et prénom}}**
 
-Né(e) le **[date de naissance]**à **[lieu de naissance]**
+Né(e) le **{{date de naissance}}**à **{{lieu de naissance}}**
 
-De nationalité **[nationalité]**
+De nationalité **{{nationalité}}**
 
-Exerçant la profession de **[profession]**
+Exerçant la profession de **{{profession}}**
 
-Demeurant **[adresse du domicile]**
+Demeurant **{{adresse du domicile}}**
 
 **Ci-après dénommé(e) « le Salarié »,**
 
@@ -39,24 +39,24 @@ Demeurant **[adresse du domicile]**
 1.
 ## Engagement
 
-  1. La Société engage le Salarié en qualité de **[fonction]** à compter du **[date]****,** sous réserve des résultats de la visite médicale d'embauche.
+  1. La Société engage le Salarié en qualité de **{{fonction}}** à compter du **{{date}}****,** sous réserve des résultats de la visite médicale d'embauche.
 
-Cette qualification correspond au statut **[statut indiqué par la convention collective]**, position **[position]****, **coefficient** [coefficient]**, prévu par la Convention Collective applicable aux présentes.
+Cette qualification correspond au statut **{{statut indiqué par la convention collective}}**, position **{{position}}****, **coefficient** {{coefficient}}**, prévu par la Convention Collective applicable aux présentes.
 
-Le Salarié sera notamment chargé de **[définir le poste].**
+Le Salarié sera notamment chargé de **{{définir le poste}}.**
 
 Le Salarié déclare formellement être libre de tout engagement et n'être lié par aucune clause de non concurrence avec un précédent employeur.
 
   1. Le présent contrat est soumis aux dispositions de la convention collective nationale des Bureaux d'Etudes Techniques, Cabinets d'Ingénieurs-conseils, sociétés de conseil, dite SYNTEC-CICF du 15 décembre 1987 étendue et complétée, (Brochure JO n°3018 – IDCC 1486) (ci-après : la «  **Convention Collective**  »), accessible sur le site internet Légifrance et dont un exemplaire est à la disposition des salariés dans les locaux de l'entreprise.
 
-  1. La déclaration préalable à l'embauche a été effectuée auprès de l'URSSAF de **[ville****] **le** [date****].**
+  1. La déclaration préalable à l'embauche a été effectuée auprès de l'URSSAF de **{{ville****}} **le** {{date****}}.**
 
-En application de la loi n° 78-17 du 6 janvier 1978 dite « Informatique et Libertés », le Salariédispose d'un droit d'accès et de rectification des informations portées sur ce document, qu'il peut exercer auprès de l'URSSAF de **[ville****].**
+En application de la loi n° 78-17 du 6 janvier 1978 dite « Informatique et Libertés », le Salariédispose d'un droit d'accès et de rectification des informations portées sur ce document, qu'il peut exercer auprès de l'URSSAF de **{{ville****}}.**
 
 1.
 ## Durée du contrat, période d'essai
 
-  1. Le présent contrat est conclu pour une durée indéterminée, sous réserve d'une période d'essai de **[durée]** expirant le **[date]****.**
+  1. Le présent contrat est conclu pour une durée indéterminée, sous réserve d'une période d'essai de **{{durée}}** expirant le **{{date}}****.**
 
 Toute suspension qui se produirait pendant la période d'essai (maladie, congés,...) prolongerait d'autant la durée de cette période qui doit correspondre à un travail effectif, tant pour la période initiale que l'éventuelle période de prolongation.
 
@@ -78,9 +78,9 @@ Il est rappelé que les heures supplémentaires restent exceptionnelles et ne do
 1.
 ## Lieu de travail, mobilité
 
-  1. Le Salarié exercera ses fonctions à **[ville]****.**
+  1. Le Salarié exercera ses fonctions à **{{ville}}****.**
 
-  1. Toutefois, compte tenu de ses fonctions et conformément aux nécessités et à l'intérêt de la Société, le Salarié pourra être amené à travailler en un autre lieu situé en [région], sans que cela ne constitue une modification de son contrat de travail, ce que le Salarié reconnaît expressément par la signature des présentes.
+  1. Toutefois, compte tenu de ses fonctions et conformément aux nécessités et à l'intérêt de la Société, le Salarié pourra être amené à travailler en un autre lieu situé en {{région}}, sans que cela ne constitue une modification de son contrat de travail, ce que le Salarié reconnaît expressément par la signature des présentes.
 
 Le Salarié déclare avoir pris connaissance de la présente clause de mobilité, et donne son consentement à toute mutation, provisoire ou définitive, qui pourrait intervenir à la demande de l'employeur, en application de son pouvoir de direction, dans la zone géographique telle que définie à la présente clause.
 
@@ -89,7 +89,7 @@ Le Salarié déclare avoir pris connaissance de la présente clause de mobilité
 1.
 ## Rémunération
 
-  1. La rémunération mensuelle brute du Salarié est fixée à **[montant en chiffres et en lettres]** euros, pour la durée de travail prévue au présent contrat, sur 12 (douze) mois.
+  1. La rémunération mensuelle brute du Salarié est fixée à **{{montant en chiffres et en lettres}}** euros, pour la durée de travail prévue au présent contrat, sur 12 (douze) mois.
 
   1. Cette rémunération inclut la cession des droits patrimoniaux d'auteur du Salarié prévus à l'article 10.2 des présentes, dont le prix de cession est contractuellement fixé à 10 % de la dite rémunération.
 
@@ -197,7 +197,7 @@ Le délai de préavis court à compter du lendemain de la notification de la rup
 
   1. Cette interdiction, qui n'a pas pour objet d'empêcher le Salarié d'exercer sa profession au sein d'une activité non concurrente, est toutefois limitée au territoire suivant :
 
-    - **[région]**
+    - **{{région}}**
 
   1. Toute violation de la présente clause de non-concurrence rendra automatiquement le Salarié redevable d'une pénalité fixée dès à présent et forfaitairement à une fois et demie (1,5 fois) le montant de l'indemnité mensuelle calculée en application de l'article 13.4, pénalité due pour chaque infraction constatée, sans qu'il soit besoin d'une mise en demeure d'avoir à cesser l'activité concurrentielle.
 
@@ -238,13 +238,13 @@ Le Salarié s'interdit, par ailleurs, de prendre, en vue de son usage personnel 
 1.
 ## Avantages sociaux
 
-Le Salarié bénéficiera des lois sociales instituées en faveur des salariés notamment en matière de sécurité sociale et en ce qui concerne le régime de retraite complémentaire. Il relève la catégorie des **[cadres ou employés]** etsera affilié dès son entrée au sein de la Société :
+Le Salarié bénéficiera des lois sociales instituées en faveur des salariés notamment en matière de sécurité sociale et en ce qui concerne le régime de retraite complémentaire. Il relève la catégorie des **{{cadres ou employés}}** etsera affilié dès son entrée au sein de la Société :
 
-- à la caisse de retraite complémentaire dont relève la Société : **[Nom et adresse à compléter]****,**
+- à la caisse de retraite complémentaire dont relève la Société : **{{Nom et adresse à compléter}}****,**
 
-- au régime de prévoyance géré par : **[Nom et adresse à compléter]****.**
+- au régime de prévoyance géré par : **{{Nom et adresse à compléter}}****.**
 
-Fait à **[ville]**, le **[date]**
+Fait à **{{ville}}**, le **{{date}}**
 
 En 2 (deux) exemplaires originaux,
 
@@ -258,6 +258,6 @@ Signatures précédées de la mention manuscrite «Lu et approuvé»
 
  |
 | --- | --- | --- |
-| **Pour la société** **[Nom]****Madame **** [ou] **** Monsieur****[Nom et prénom]** |
- | **Madame** **[ou]**  **Monsieur**** [Nom et prénom]** |
+| **Pour la société** **{{Nom}}****Madame **** {{ou}} **** Monsieur****{{Nom et prénom}}** |
+ | **Madame** **{{ou}}**  **Monsieur**** {{Nom et prénom}}** |
 
