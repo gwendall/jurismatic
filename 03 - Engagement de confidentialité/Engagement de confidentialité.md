@@ -2,27 +2,27 @@
 
 **ENTRE LES SOUSSIGNE(E)S**:
 
-**Monsieur ou Madame** **[Nom et prénom]**
+**Monsieur ou Madame** **{{Nom et prénom}}**
 
-Né(e) le **[date de naissance]**à **[lieu de naissance]**
+Né(e) le **{{date de naissance}}**à **{{lieu de naissance}}**
 
-De nationalité **[nationalité]**
+De nationalité **{{nationalité}}**
 
-Exerçant la profession de **[profession]**
+Exerçant la profession de **{{profession}}**
 
-Demeurant **[adresse du domicile]**
+Demeurant **{{adresse du domicile}}**
 
-[ou]
+{{ou}}
 
-**La Société [****nom de la société]**
+**La Société {{****nom de la société}}**
 
-**[****forme de la société****]** au capital de **[capital exprimé en chiffres****]** euros
+**{{****forme de la société****}}** au capital de **{{capital exprimé en chiffres****}}** euros
 
-Immatriculée au RCS de **[ville]** sous le numéro **[n° du RCS]**
+Immatriculée au RCS de **{{ville}}** sous le numéro **{{n° du RCS}}**
 
-Dont le siège social est situé **[adresse complète du siège social]**
+Dont le siège social est situé **{{adresse complète du siège social}}**
 
-Représentée par **Monsieur ou Madame** **[Nom et prénom]**en qualité de**[Président ou Gérant ou Directeur Général****]**, dûment habilité aux fins des présentes,
+Représentée par **Monsieur ou Madame** **{{Nom et prénom}}**en qualité de**{{Président ou Gérant ou Directeur Général****}}**, dûment habilité aux fins des présentes,
 
 ci-après dénommé(e) la « **Partie Divulgatrice** »,
 
@@ -30,27 +30,27 @@ ci-après dénommé(e) la « **Partie Divulgatrice** »,
 
 **ET****  :**
 
-**Monsieur ou Madame** **[Nom et prénom]**
+**Monsieur ou Madame** **{{Nom et prénom}}**
 
-Né(e) le **[date de naissance]**à **[lieu de naissance]**
+Né(e) le **{{date de naissance}}**à **{{lieu de naissance}}**
 
-De nationalité **[nationalité]**
+De nationalité **{{nationalité}}**
 
-Exerçant la profession de **[profession]**
+Exerçant la profession de **{{profession}}**
 
-Demeurant **[adresse du domicile]**
+Demeurant **{{adresse du domicile}}**
 
-[ou]
+{{ou}}
 
-**La Société [****nom de la société]**
+**La Société {{****nom de la société}}**
 
-**[****forme de la société****]** au capital de **[capital exprimé en chiffres****]** euros
+**{{****forme de la société****}}** au capital de **{{capital exprimé en chiffres****}}** euros
 
-Immatriculée au RCS de **[ville]** sous le numéro **[n° du RCS]**
+Immatriculée au RCS de **{{ville}}** sous le numéro **{{n° du RCS}}**
 
-Dont le siège social est situé **[adresse complète du siège social]**
+Dont le siège social est situé **{{adresse complète du siège social}}**
 
-Représentée par **Monsieur ou Madame** **[Nom et prénom]**en qualité de**[Président ou Gérant ou Directeur Général****]**, dûment habilité aux fins des présentes,
+Représentée par **Monsieur ou Madame** **{{Nom et prénom}}**en qualité de**{{Président ou Gérant ou Directeur Général****}}**, dûment habilité aux fins des présentes,
 
 ci-après dénommé(e) la «  **Partie Destinataire** »,
 
@@ -60,7 +60,7 @@ ci-après dénommé(e) la «  **Partie Destinataire** »,
 
 **Etant préalablement rappelé que :**
 
-Dans le cadre de **[décrire l'opération dans le cadre de laquelle des informations confidentielles seront fournies****]**(ci-après dénommée l' « Opération »), la Partie Divulgatrice s'apprête à fournir à la Partie Destinataire de nombreuses informations concernant**[****décrire le type d'informations à transmettre****]**. Ces informations ont un caractère confidentiel que la Partie Divulgatrice entend protéger.
+Dans le cadre de **{{décrire l'opération dans le cadre de laquelle des informations confidentielles seront fournies****}}**(ci-après dénommée l' « Opération »), la Partie Divulgatrice s'apprête à fournir à la Partie Destinataire de nombreuses informations concernant**{{****décrire le type d'informations à transmettre****}}**. Ces informations ont un caractère confidentiel que la Partie Divulgatrice entend protéger.
 
 La Partie Divulgatrice désire donc arrêter avec la Partie Destinataire, dans le cadre du présent engagement de confidentialité, les conditions de divulgation de ces informations confidentielles et fixer les règles relatives à leur utilisation et à leur protection.
 
@@ -104,14 +104,14 @@ Une stricte obligation de loyauté et de confidentialité à l'égard des Inform
 
 Les dispositions ci-dessus bénéficient à la Partie Divulgatrice, ainsi qu'à toute société qui se substituerait à elle dans le cadre de l'Opération visée au préambule du présent accord.
 
-Le présent accord est soumis au droit français. Tout différend entre les Parties relatif à la validité, l'interprétation ou l'exécution de celui-ci sera soumis à la compétence exclusive du Tribunal de Commerce de **[ville]****,** sauf règles impératives contraires.
+Le présent accord est soumis au droit français. Tout différend entre les Parties relatif à la validité, l'interprétation ou l'exécution de celui-ci sera soumis à la compétence exclusive du Tribunal de Commerce de **{{ville}}****,** sauf règles impératives contraires.
 
-Fait à **[ville]****, **le** [date] ****,**
+Fait à **{{ville}}****, **le** {{date}} ****,**
 
 En deux exemplaires originaux.
 
-| **Pour la Partie Divulgatrice** [Nom et prénom du signataire] |
- | **Pour la Partie Destinataire** Nom : [Nom et prénom du signataire] |
+| **Pour la Partie Divulgatrice** {{Nom et prénom du signataire}} |
+ | **Pour la Partie Destinataire** Nom : {{Nom et prénom du signataire}} |
 | --- | --- | --- |
 
 3
