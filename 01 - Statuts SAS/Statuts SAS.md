@@ -24,12 +24,18 @@ En cours de constitution au RCS de **{{société:numéroRCS}}**
 
 Pour satisfaire aux dispositions de l'article  {{R 224-2 du Code de commerce}}(javascript:%20documentLink('CCOM4253')), il est précisé que les présents statuts ont été signés par :
 
-{{#each associé}}
+{{#each associé}}  
+
   • **{{civilité}} {{nom}}**
+
   Né(e) le **{{dateDeNaissance}}**à **{{villeDeNaissance}}** (**{{departementDeNaissance}}**)
+
   De nationalité {{nationalité}}
+
   Demeurant **{{adresse}}**
+
   {{statutMarital}} sous le régime de la communauté de **{{regimeMarital}}**
+
 {{/each}}
 
 **TITRE I. FORME - OBJET - DENOMINATION - SIEGE SOCIAL - DUREE - EXERCICE SOCIAL**
