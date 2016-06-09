@@ -20,7 +20,7 @@ Nous vous indiquons à ce sujet que nous nous conformons, dans la collecte et la
 1.
 ## Identité du responsable de la collecte de données
 
-Le responsable de la collecte de vos données à caractère personnel est la société **[****nom de la Société****], [****forme de la société] **, immatriculée au Registre du Commerce et des Sociétés de** [ville] **sous le n°** [à compléter] **, ayant son siège social** [à compléter]**.
+Le responsable de la collecte de vos données à caractère personnel est la société **{{****nom de la Société****}}, {{****forme de la société}} **, immatriculée au Registre du Commerce et des Sociétés de** {{ville}} **sous le n°** {{à compléter}} **, ayant son siège social** {{à compléter}}**.
 
 1.
 ## Collecte des données à caractère personnel
@@ -51,7 +51,7 @@ Peuvent également être destinataires de vos données à caractère personnel l
 
 Vos données à caractère personnel pourront faire l'objet de cessions, locations ou échanges au bénéfice de tiers. Dans le cas où vous le souhaiteriez, nous vous donnons la faculté de cocher une case exprimant votre accord à ce sujet lors de la collecte de vos données.
 
-**[ou]**
+**{{ou}}**
 
 Vos données à caractère personnel ne feront pas l'objet de cessions, locations ou échanges au bénéfice de tiers.
 
@@ -132,8 +132,8 @@ Lorsque vous choisissez de communiquer vos données à caractère personnel, vou
 
 Conformément à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, vous disposez du droit d'obtenir la communication et, le cas échéant, la rectification ou la suppression des données vous concernant, à travers un accès en ligne à votre dossier. Vous pouvez également vous adresser à :
 
-- adresse de courrier électronique : **[à compléter]**
-- adresse de courrier postal : **[à compléter]**
+- adresse de courrier électronique : **{{à compléter}}**
+- adresse de courrier postal : **{{à compléter}}**
 
 Il est rappelé que toute personne peut, pour des motifs légitimes, s'opposer au traitement des données la concernant.
 
@@ -145,4 +145,4 @@ Nous nous réservons le droit, à notre seule discrétion, de modifier à tout m
 1.
 ## Entrée en vigueur
 
-La présente charte est entrée en vigueur le **[date]**.
+La présente charte est entrée en vigueur le **{{date}}**.
